@@ -1,0 +1,12 @@
+Import java.io.*;
+public class Employee{
+//salary variable is a private static variable
+private static double salary;
+//department is a constant
+public static final String DEPARTMENT=”Development”;
+ 
+public static void main(String args[]) {
+Salary=9000;
+System.out.println(DEPARTMENT+”average salary:”+salary);
+}
+}
